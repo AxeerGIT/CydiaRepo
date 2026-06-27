@@ -9,7 +9,7 @@ MD5sum: 4ecec5319346560a6355ccafd7f9826d
 SHA1: ee8fdded08ef778c625180d81fbe74a97988dba0
 SHA256: cd700c91f746cf3a58ac534d43d4ff8278ffb9b92683456649bbba431adfe76e
 Section: IPA's Installer Stuff
-Description: 
+Description: No (Old) Revoking!
 
 Package: ai.akemi.appsyncunified64
 Name: AppSync Unified (arm64, A7 to A11)
@@ -22,7 +22,7 @@ MD5sum: a89748ab2388f6f6921a3a1732808bbe
 SHA1: dba5ce2e39fd2bb149f94750efa60a3b9e20eb78
 SHA256: 029de0bace218a414870d1faeb71ed8b1f81b219f2b9e1b60157cd3ea36915fd
 Section: IPA's Installer Stuff
-Description: 
+Description: No Revoking!
 
 Package: com.staturnz.iocaste
 Name: Untethered Jailbreak for iOS 9.3.5/6 (iocaste)
