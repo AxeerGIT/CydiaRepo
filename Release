@@ -1,0 +1,20 @@
+Origin: Axeer's Repo
+Label: Axeer's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Static architecture manifest mapping suite indices.
+MD5Sum:
+ d85ffacf7450208b15e413588a33d3a7 1448 Packages
+ f230508e00ff3415a33eea1ec80ac6a3 688 Packages.gz
+ f230508e00ff3415a33eea1ec80ac6a3 688 Packages.bz2
+SHA1:
+ b07f08bc3e5d2e65cd6b2d3448b1844bc422e6bd 1448 Packages
+ 86e7bf3297341c611d8e9b975ae2f33b13576231 688 Packages.gz
+ 86e7bf3297341c611d8e9b975ae2f33b13576231 688 Packages.bz2
+SHA256:
+ cac112d55e288e08d023d2fba5876cafe69315ba1bd039878f1bcff14e7df340 1448 Packages
+ 5cd3bf2cc3bfaf2332538a3d7f6c6aba6b74069d4341cf2b4bbc2bb9d0b659a5 688 Packages.gz
+ 5cd3bf2cc3bfaf2332538a3d7f6c6aba6b74069d4341cf2b4bbc2bb9d0b659a5 688 Packages.bz2
